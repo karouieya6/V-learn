@@ -7,6 +7,6 @@
     <file url="file://$PROJECT_DIR$/backend-pfe/courseservice/courseservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/backend-pfe/enrollmentservice/enrollmentservice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/backend-pfe/eurekaserver/eurekaserver/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/frontned-pfe/userservice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/frontend-pfe/userservice/src/main/java" charset="UTF-8" />
   </component>
 </project>
